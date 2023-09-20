@@ -4,7 +4,7 @@
 
 I am highly proficient in Python and Django, HTML, CSS, Bootstrap, and more.
 
-Skills: Python/Django/MySQL/Node.js/HTML/CSS/Bootstrap
+Skills: Python/Django/MySQL/Node.js/HTML/CSS/Bootstrap.
 
 
 
