@@ -1,5 +1,5 @@
 ![I am a full-stack software developer.](https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-post-on-international-React-Native-developer-salary-ranges-featuring-a-cartoon-character-depicting-a-software-developer.jpg)
-### Hi there 👋, Hi, I'm Palash 
+### 👋, Hi, I'm Palash 
 #### I am a full-stack software developer.
 
 I am highly proficient in Python and Django, HTML, CSS, Bootstrap, and more.
