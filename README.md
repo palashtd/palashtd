@@ -1,4 +1,4 @@
-![I am a full-stack software developer.](https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-post-on-international-React-Native-developer-salary-ranges-featuring-a-cartoon-character-depicting-a-software-developer.jpg)
+![I am a full-stack software developer.](https://kruschecompany.com/wp-content/uploads/2021/11/cover-image-for-blog-on-python-developer-salary-ranges-1280x595.png)
 ### 👋, Hi, I'm Palash 
 #### I am a full-stack software developer.
 
