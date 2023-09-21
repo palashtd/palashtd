@@ -2,9 +2,9 @@
 #### I am a full-stack software developer.
 ![I am a full-stack software developer.](https://camo.githubusercontent.com/966e6c2c8201fd13aad8260c8c17e823ca79e941750583335e08518d28824056/68747470733a2f2f6b727573636865636f6d70616e792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31312f636f7665722d696d6167652d666f722d626c6f672d6f6e2d707974686f6e2d646576656c6f7065722d73616c6172792d72616e6765732d31323830783539352e706e67)
 
-I am highly proficient in Python and Django, HTML, CSS, Bootstrap, and more.
+I am highly proficient in Python, Django, HTML, CSS, Bootstrap, and more.
 
-Skills: Skills: Python/Django/MySQL/Node.js/HTML/CSS/Bootstrap.
+Skills: Python/Django/MySQL/Node.js/HTML/CSS/Bootstrap.
 
 - 🌱 I’m currently learning Python and Django 
 
